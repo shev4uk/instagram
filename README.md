@@ -1,7 +1,5 @@
 # Посилання на демо з інстаграму
 
-***
-
 HTML5 tags https://codepen.io/shev4uk/pen/eYJoYQy<br>
 Форма логування з валідацією https://codepen.io/shev4uk/pen/GRZypGB<br>
 Плавна прокрутка для якорних посилань https://codepen.io/shev4uk/pen/jOqZENg<br>
