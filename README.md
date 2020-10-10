@@ -1,6 +1,6 @@
 # Посилання на демо з інстаграму
 
-Custom video player https://github.com/shev4uk/video-player
+Custom video player https://github.com/shev4uk/video-player<br>
 HTML5 tags https://codepen.io/shev4uk/pen/eYJoYQy<br>
 Форма логування з валідацією https://codepen.io/shev4uk/pen/GRZypGB<br>
 Плавна прокрутка для якорних посилань https://codepen.io/shev4uk/pen/jOqZENg<br>
