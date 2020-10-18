@@ -1,5 +1,6 @@
 # Посилання на демо з інстаграму
 
+Infinite Scroll https://github.com/shev4uk/infinite-scroll і демо https://shev4uk.github.io/infinite-scroll/
 Custom video player https://github.com/shev4uk/video-player<br>
 HTML5 tags https://codepen.io/shev4uk/pen/eYJoYQy<br>
 Форма логування з валідацією https://codepen.io/shev4uk/pen/GRZypGB<br>
